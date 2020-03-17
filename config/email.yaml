@@ -1,0 +1,15 @@
+#smtp_server: smtp.qq.com
+smtp_server: mail.ronglian.com
+#port: 465
+port: 25
+
+#sender: user1@qq.com
+#psw: xxxx
+
+sender: user1@qq.com
+psw: xxx
+
+subject: xxx项目Interface自动化测试报告
+
+#receiver: user2@qq.com,user3@qq.com
+receiver: user1@qq.com
